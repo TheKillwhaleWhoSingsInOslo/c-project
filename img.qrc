@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/beijing.png</file>
+        <file>img/chusheng.png</file>
+        <file>img/lu.png</file>
+        <file>img/zhangai.png</file>
+        <file>img/9ef8c5f1ecdd43f19fda1ff6bb0ca6b2.png</file>
+        <file>map1.txt.txt</file>
+        <file>C:/Users/24511/Desktop/map2.txt</file>
+        <file>img/a5e221f3-2032-4d06-8988-b901152ea905.png</file>
+        <file>img/5f09d096-b086-4a7c-bc5b-67b8b23dff9c.png</file>
+        <file>img/d3c67882-865f-44eb-bb9d-b72aa76305cc.png</file>
+        <file>img/7627f24f-b6a7-49e1-b1a2-e2f19abf351b.png</file>
+        <file>img/ce77d4d4-6f5a-4164-8e6b-85ca195fcc14.png</file>
+        <file>img/QQ_1733660780738.png</file>
+        <file>img/7a7fafcc-a295-447b-9f4b-47c07b37e8a1.png</file>
+        <file>img/QQ_1733662493088.png</file>
+        <file>img/QQ_1733662547004.png</file>
+    </qresource>
+</RCC>
